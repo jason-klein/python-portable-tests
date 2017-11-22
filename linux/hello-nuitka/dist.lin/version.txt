@@ -1,0 +1,13 @@
+
+Linux
+Distributor ID:	Kali
+Description:	Kali GNU/Linux Rolling
+Release:	kali-rolling
+Codename:	kali-rolling
+
+PYTHON
+Python 3.6.3
+
+NUITKA
+0.5.28.1
+

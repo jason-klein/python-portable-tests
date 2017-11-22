@@ -1,0 +1,14 @@
+
+OSX
+ProductName:	Mac OS X
+ProductVersion:	10.13.1
+BuildVersion:	17B48
+
+PYTHON
+Python 3.6.3
+
+CXFREEZE
+cxfreeze 5.0
+Copyright (c) 2007-2017 Anthony Tuininga. All rights reserved.
+Copyright (c) 2001-2006 Computronix Corporation. All rights reserved.
+

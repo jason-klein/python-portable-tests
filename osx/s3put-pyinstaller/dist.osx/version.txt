@@ -1,0 +1,12 @@
+
+OSX
+ProductName:	Mac OS X
+ProductVersion:	10.13.1
+BuildVersion:	17B48
+
+PYTHON
+Python 3.6.3
+
+PYINSTALLER
+3.3
+

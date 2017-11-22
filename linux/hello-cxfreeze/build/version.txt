@@ -1,0 +1,16 @@
+
+LINUX
+Linux 4.13.0-kali1-amd64 #1 SMP Debian 4.13.4-2kali1 (2017-10-16) x86_64 unknown unknown GNU/Linux
+Distributor ID:	Kali
+Description:	Kali GNU/Linux Rolling
+Release:	kali-rolling
+Codename:	kali-rolling
+
+PYTHON
+Python 3.6.3
+
+CXFREEZE
+cxfreeze 5.0
+Copyright (c) 2007-2017 Anthony Tuininga. All rights reserved.
+Copyright (c) 2001-2006 Computronix Corporation. All rights reserved.
+
